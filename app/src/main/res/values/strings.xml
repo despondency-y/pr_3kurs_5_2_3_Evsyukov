@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Моя библиотека</string>
+    <string name="for_etIsbn">Введите ISBN </string>
+    <string name="for_btnSearch">Найти книгу</string>
+    <string name="for_btnSaveBook">Сохранить в библиотеку</string>
+    <string name="for_btnGoToLibrary">Перейти в библиотеку</string>
+    <string name="for_tvMyLibrary">Моя библиотека</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="for_etLogin">Введите логин</string>
+    <string name="for_etPassword">Введите пароль</string>
+    <string name="for_btnLogin">Войти</string>
+    <string name="for_btnBack">Назад</string>
+</resources>
